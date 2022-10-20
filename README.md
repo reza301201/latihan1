@@ -1,3 +1,4 @@
+![8](https://user-images.githubusercontent.com/116234001/196832456-c8418758-1829-4b48-bf33-2c4c7c073ed2.png)
 # latihan1
 Hallo nama saya reza kurniawan. Disini saya akan menjelaskan cara penggunaan Git yang kita perlukan aialah Applikasi git , akun git. Sebelum itu saya akan kasih tutorial cara penginstalan GIT.
 
