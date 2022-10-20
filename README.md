@@ -66,7 +66,8 @@ Cara penggunaan git dengan perintah dasar git add fungsi perintahnya untuk menam
 Untuk menambahkan file yang baru saja dibuat tersebut gunakan perintah git add. Dengan perintah $ git add README.md. Kalau ingin melihat infonya ketik perintah git status.![13](https://user-images.githubusercontent.com/116234001/196833760-3d73bf7f-788c-4213-9407-ee4c13287b03.png)
 
 
-Untuk menyimpan perubahan yang ada kedalam database gunakan perintah git commit -m “komentar commit" 67557721-cadd1e80-f73f-11e9-8f44-dc52f8676eb3
+Untuk menyimpan perubahan yang ada kedalam database gunakan perintah git commit -m “komentar commit" ![14](https://user-images.githubusercontent.com/116234001/196834064-fdc9ebe1-196b-4993-a7f7-5f99cc195c05.png)
+
 
 File berhasil tersimpan
 Langkah berikutnya kita kembali ke website GitHub untuk melihat repositori yang sudah dibuat. Nah di Quick Setup nanti ada url github kita, url tersebut untuk perintah_ “git remote add origin [url] “ DAN PERINTAH GIT CLONE “ git clone [ url ] “_
