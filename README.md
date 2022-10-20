@@ -78,7 +78,8 @@ Cara penggunaan git dengan perintah dasar git push -u origin master, perintah un
 Untuk mengirim perubahan pada local repository ke server gunakan perintah “git push -u origin master”. Ingat pada langkah ini kita harus memasukan usernam dan pasword gethub. ![16](https://user-images.githubusercontent.com/116234001/196834585-5f1241b7-ac57-4f52-b4a9-ac8370aff50a.png)
 git_push
 Cara penggunaan git dengan perintah dasar git clone [url], perintah untuk membuat working directory yang diambil dari repositry sever.
-Kalau ingin melakukan cloning, gunakan perintah git clone [url], urlnya diganti dengan url github anda https://github.com/reza301201/latihan1.git . Jika ingin masuk kedirektorti gunakan perintah “cd [nama direktori anda]”, dan jika ingin melihat semua isi direektori gunakan perintah “ls -1" git_push
+Kalau ingin melakukan cloning, gunakan perintah git clone [url], urlnya diganti dengan url github anda https://github.com/reza301201/latihan1.git . Jika ingin masuk kedirektorti gunakan perintah “cd [nama direktori anda]”, dan jika ingin melihat semua isi direektori gunakan perintah “ls -1" git_push![17](https://user-images.githubusercontent.com/116234001/196834705-4250c525-7446-40bc-a5f7-7d634de25d6e.png)
+
 
 Selesai Jika ingin melihat hasilnya cek di laman gethub arahkan ke repositorinya
 
