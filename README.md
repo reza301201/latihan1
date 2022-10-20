@@ -45,7 +45,8 @@ Lalu kita buka file explorer pilih dilocal disk (c) (atau dmana saja sesuai kein
 
 Lalu kita akan menambahkan Config Global Repository pakai user name dan user email yang tadi sudah dibuat, dengan perintah : $ git config --global user.email “email_user” $ git config --global user.name “nama_user”
 
-Screenshot (21)
+![9](https://user-images.githubusercontent.com/116234001/196833287-4efd2d6d-afd0-4686-a5eb-4d7f57817550.png)
+
 
 Buatlah direktori baru dengan menggunakan perintah " mkdir lab_pemrograman1 " LALU " cd lab_pemrograman1Screenshot (22) ".
 
