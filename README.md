@@ -1,4 +1,4 @@
-![8](https://user-images.githubusercontent.com/116234001/196832456-c8418758-1829-4b48-bf33-2c4c7c073ed2.png)
+
 # latihan1
 Hallo nama saya reza kurniawan. Disini saya akan menjelaskan cara penggunaan Git yang kita perlukan aialah Applikasi git , akun git. Sebelum itu saya akan kasih tutorial cara penginstalan GIT.
 
@@ -40,7 +40,8 @@ Lalu nanti di tab baru ada url, url ini akan digunakan untuk remote GitHub.
 
 
 Membuat Repository Local
-Lalu kita buka file explorer pilih dilocal disk (c) (atau dmana saja sesuai keinginan anda), lalu klik kanan pilih Git Bash here . 
+Lalu kita buka file explorer pilih dilocal disk (c) (atau dmana saja sesuai keinginan anda), lalu klik kanan pilih Git Bash here . ![8](https://user-images.githubusercontent.com/116234001/196833116-4fc73f15-6f25-4f64-ac6b-8594226010ef.png)
+
 
 Lalu kita akan menambahkan Config Global Repository pakai user name dan user email yang tadi sudah dibuat, dengan perintah : $ git config --global user.email “email_user” $ git config --global user.name “nama_user”
 
