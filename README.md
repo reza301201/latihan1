@@ -26,7 +26,8 @@ Pada langka selanjutnya anda boleh langsung diskip saja.
 Membuat repositori baru
 Ini adalah tampilan pertama setelah kalian selesai membuat akun git
 
-Screenshot (13)
+![5](https://user-images.githubusercontent.com/116234001/196831579-e6343821-1a7b-4c2f-a4ad-c82eca5ca4f6.png)
+
 
 Langkah selanjutnya nanti anda akan dialihkan ke tab baru untuk membuat repositori baru, isi susuai inspirasi anda setelah selesai klik buat repositori.
 Screenshot (14)
