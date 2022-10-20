@@ -18,7 +18,8 @@ Setelah melakukan penginstalan, buka git cmd untuk mengetahui apakah sudah bisa 
 
 Cara membuat akun git
 Disini anda harus membuat akun git terlebih dahulu untuk membuat repository server bukalah link tersebut http://github.com
-Screenshot (16)
+![4](https://user-images.githubusercontent.com/116234001/196831384-2013d3f5-4f8f-4b13-9715-171264c4566e.png)
+
 
 Pada langka selanjutnya anda boleh langsung diskip saja.
 
